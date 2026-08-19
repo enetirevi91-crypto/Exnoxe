@@ -72,7 +72,7 @@ function App() {
 
       <header className="header">
         <div className="header-inner">
-          <img src="/logo.png" alt="Exnoxe" className="header-logo" />
+          <img src="/logo1.png" alt="Exnode" className="header-logo" />
           <TelegramButton size="sm">Написать в Telegram</TelegramButton>
         </div>
       </header>
@@ -86,7 +86,7 @@ function App() {
               на <span className="blue-text">лучших</span> условиях
             </h1>
             <p className="hero-subtitle">
-              Exnoxe — это надежный и быстрый обмен криптовалют.
+              Exnode — это надежный и быстрый обмен криптовалют.
               Выгодные курсы, минимальные комиссии и безопасность
               ваших транзакций.
             </p>
@@ -100,7 +100,7 @@ function App() {
           </div>
           <div className="hero-right">
             <div className="hero-emblem-wrap">
-              <img src="/mogo.png" alt="Exnoxe" className="hero-emblem" />
+              <img src="/mogo.png" alt="Exnode" className="hero-emblem" />
               <div className="hero-glow" />
             </div>
           </div>
@@ -110,7 +110,7 @@ function App() {
       <div className="divider" />
 
       <section className="advantages-section">
-        <h2 className="section-title">Почему выбирают <span className="blue-text">Exnoxe?</span></h2>
+        <h2 className="section-title">Почему выбирают <span className="blue-text">Exnode?</span></h2>
         <div className="advantages-grid">
           <div className="advantage-card">
             <Zap className="advantage-icon" />
@@ -188,11 +188,11 @@ function App() {
       <footer className="footer">
         <div className="footer-inner">
           <div className="footer-left">
-            <img src="/logo.png" alt="Exnoxe" className="footer-logo" />
+            <img src="/logo1.png" alt="Exnode" className="footer-logo" />
             <p>Надёжный обмен криптовалют<br />на лучших условиях</p>
           </div>
           <div className="footer-right">
-            <span className="copyright">© 2024 Exnoxe. Все права защищены.</span>
+            <span className="copyright">© 2024 Exnode. Все права защищены.</span>
             <a href={TELEGRAM_CHANNEL} target="_blank" rel="noopener noreferrer" className="footer-tg">
               <Send className="footer-send-icon" />
             </a>
