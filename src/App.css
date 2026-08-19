@@ -587,13 +587,17 @@ body {
     width: calc(100% - 32px);
   }
 
+  .header-inner {
+    gap: 8px;
+  }
+
   .header-logo {
-    height: 79px;
+    height: 60px;
   }
 
   .btn-sm {
-    padding: 10px 14px;
-    font-size: 13px;
+    padding: 8px 12px;
+    font-size: 11px;
   }
 
   .hero {
