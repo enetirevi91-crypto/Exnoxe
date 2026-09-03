@@ -12,7 +12,7 @@ import {
   Shield,
 } from 'lucide-react';
 
-const TELEGRAM_URL = "https://t.me/Manager_Exnode";
+const TELEGRAM_URL = "https://t.me/+riUY9R1NEAUxMzUy";
 const TELEGRAM_CHANNEL = "https://t.me/+riUY9R1NEAUxMzUy";
 
 const reviews = [
